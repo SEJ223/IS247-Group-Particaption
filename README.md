@@ -1,2 +1,2 @@
-# IS247-Group-Particaption
+# IS247-Group-Participation
 Separate repository for group task
