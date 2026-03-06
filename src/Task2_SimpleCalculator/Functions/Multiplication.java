@@ -1,4 +1,4 @@
-package Task2_SimpleCalculator;
+package Task2_SimpleCalculator.Functions;
 
 public class Multiplication {
     public static int multiply(int a, int b) {

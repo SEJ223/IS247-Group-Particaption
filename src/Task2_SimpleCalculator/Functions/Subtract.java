@@ -1,4 +1,4 @@
-package Task2_SimpleCalculator;
+package Task2_SimpleCalculator.Functions;
 
 public class Subtract {
     public static int subtract(int a , int b){

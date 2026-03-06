@@ -1,4 +1,4 @@
-package Task2_SimpleCalculator;
+package Task2_SimpleCalculator.Functions;
 
 public class Add {
     public static int add(int a ,int b){

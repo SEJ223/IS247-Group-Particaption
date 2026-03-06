@@ -1,4 +1,4 @@
-package Task2_SimpleCalculator;
+package Task2_SimpleCalculator.Functions;
 
 public class Square {
     public static int square(int a){
