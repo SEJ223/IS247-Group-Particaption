@@ -1,9 +1,4 @@
-package Task2_SimpleCalculator;
-
-import Task2_SimpleCalculator.Functions.Add;
-import Task2_SimpleCalculator.Functions.Multiplication;
-import Task2_SimpleCalculator.Functions.Square;
-import Task2_SimpleCalculator.Functions.Subtract;
+package Task2_SimpleCalculator.Functions;
 
 public class Main {
     public static void main(String[] args) {
