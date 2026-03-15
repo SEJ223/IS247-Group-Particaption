@@ -1,4 +1,4 @@
-FROM amazoncorretto:latest
+FROM eclipse-temurin:25
 
 WORKDIR /app
 
