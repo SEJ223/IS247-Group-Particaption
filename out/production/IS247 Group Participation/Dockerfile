@@ -1,9 +1,11 @@
-FROM amazoncorretto:latest
+# Use OpenJDK 21 LTS as the base image
+FROM eclipse-temurin:21
 
+# Create a new app directory for my application
+RUN mkdir /app
+
+# Set the working directory
 WORKDIR /app
 
-COPY HelloWorld.java .
-
-RUN javac HelloWorld.java
-
-CMD ["java", "HelloWorld"]
+# Run the Main class
+CMD java Main
